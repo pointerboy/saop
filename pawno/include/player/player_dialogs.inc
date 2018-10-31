@@ -1,3 +1,4 @@
+
 enum
 {
 	DIALOG_UNUSED,
@@ -5,7 +6,6 @@ enum
 	DIALOG_LOGIN,
 	DIALOG_REGISTER
 };
-
 
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
